@@ -1,0 +1,48 @@
+.main{
+
+            background-color: #5b8f8f;
+            color:white;
+            display: flex;
+            height: 14.67vw;
+            width: calc( 100% - 4.15vw); 
+            gap:6.09vw;
+            position: absolute;
+            padding: 2.15vw;
+}           
+.wordBox{
+    gap:1.09vw;
+    display: flex;
+    flex-direction: column;
+}
+
+    img {
+       
+        box-sizing:border-box;
+        width: 13vw;
+        height: 13vw;
+      
+        margin: 0.4vw;  
+        border-radius: 1.09vw;
+      
+      }
+      .imageBox{
+        border-radius: 1.09vw;
+        position: relative;
+        left: 0.54vw;
+        top: 0.54vw;
+      width: 13.86vw;
+        height: 13.86vw;
+        background-color: white;
+        
+    }
+p{
+    font-size:1.36vw;
+      margin: 0;
+}
+ h1{
+
+    margin: 0;
+    margin-top: 1.63vw;
+    width: 14.13vw;
+    font-size: 2.7vw;
+ }

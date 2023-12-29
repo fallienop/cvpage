@@ -1,0 +1,27 @@
+.main{
+    width: 40%;
+    background-color: #d9d9d9;
+    padding-top: 24.4vw;
+    padding-left: 3.125vw;
+    padding-right: 3.125vw;    
+    padding-bottom: 13vw; 
+}
+
+h3{
+    
+    margin: 0;
+  
+}
+
+div{
+    padding: 0;
+}
+
+.contacts{
+    padding: 0;
+}
+
+p{
+    padding: 0;
+
+}
